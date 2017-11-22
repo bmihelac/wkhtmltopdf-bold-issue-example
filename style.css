@@ -1,0 +1,19 @@
+/* Normal */
+@font-face {
+  font-family: OpenSans;
+  src: url(Open_Sans/OpenSans-Regular.ttf);
+}
+
+/* Bold */
+@font-face {
+  font-family: OpenSans;
+  src: url(Open_Sans/OpenSans-Bold.ttf);
+  font-weight: bold;
+}
+
+body {
+  font-family: OpenSans;
+}
+.bold-text {
+  font-weight: bold;
+}
